@@ -1,0 +1,16 @@
+{
+  "name": "koa_meetup_prep",
+  "version": "0.0.1",
+  "description": "Just a little example project for Koa",
+  "main": "src/index.js",
+  "repository": "git@github.com:TheBeege/koa_meetup_prep.git",
+  "author": "Bryan \"Beege\" Berry <bryanberry235711@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.13.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}

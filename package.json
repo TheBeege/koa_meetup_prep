@@ -8,7 +8,9 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "koa": "^2.13.0"
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-joi-router": "^6.0.2"
   },
   "scripts": {
     "start": "node src/index.js"
